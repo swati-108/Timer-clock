@@ -1,3 +1,6 @@
+### deployed 
+https://pause-timer.netlify.app/
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
